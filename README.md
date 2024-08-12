@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farooq</h1>
-<h3 align="center">A passionate software developer and senior year Computer Science student from NUST, Islamabad</h3>
+<h3 align="center">Software Engineer at JFreaks and Computer Science graduate from NUST, Islamabad</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farooquememon385" alt="farooquememon385" /></a> </p>
 
-- 🔭 I’m currently working on **Network Monitoring App** and **Food Ordering Website**
+- 🔭 I’m currently working on <a href="https://tweetstorm.ai">**TweetStorm - An AI Powerd Tweet Genenrator Extension**</a>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **React, C++, Python**
+- 💬 Ask me about **React JS, Next JS, C++ and Python**
 
 - 📫 How to reach me **farooquememon385@gmail.com**
 
